@@ -279,9 +279,9 @@
 				DEVELOPMENT_TEAM = V22E96FTGS;
 				INFOPLIST_FILE = Bitrise/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = ElasticMedia.Bitrise;
+				PRODUCT_BUNDLE_IDENTIFIER = io.ElasticMedia.Bitrise;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "218fc3cf-5ba8-42b1-819c-ca524954ea65";
+				PROVISIONING_PROFILE = "a9bacbd1-6c8f-4529-bfbe-8d05e3534e80";
 				PROVISIONING_PROFILE_SPECIFIER = Bitrise;
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -297,7 +297,7 @@
 				DEVELOPMENT_TEAM = V22E96FTGS;
 				INFOPLIST_FILE = Bitrise/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = ElasticMedia.Bitrise;
+				PRODUCT_BUNDLE_IDENTIFIER = io.ElasticMedia.Bitrise;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "218fc3cf-5ba8-42b1-819c-ca524954ea65";
 				PROVISIONING_PROFILE_SPECIFIER = Bitrise;
